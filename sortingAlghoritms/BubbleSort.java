@@ -1,6 +1,5 @@
 package sortingAlghoritms;
 
-
 /*
  * Bubble Sort Algorithm
  * 
@@ -16,7 +15,6 @@ package sortingAlghoritms;
  * 
  * the process finishes when there are no more swaps because it means that all the elements
  * are sorted
- * 
  * 
  * suppose you have a = [5, 4, 3, 2, 1]
  * is a[0] > a[1]? YES so, swap them  [4, 5, 3, 2, 1]
@@ -57,7 +55,6 @@ package sortingAlghoritms;
  * is a[1] > a[2]? NO so,  NO swap    [1, 2, 3, 4, 5]
  * is a[2] > a[3]? NO so,  NO swap    [1, 2, 3, 4, 5]
  * is a[3] > a[4]? NO so, NO swap     [1, 2, 3, 4, 5]
- * 
  * 
  * As there were no more swaps it means the array is SORTED.
  * 
